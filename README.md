@@ -16,6 +16,7 @@ Bu bilgi birikimim ile bir YouTube kanalım var, üzerinden videolarda projeleri
 - 📊 Power BI ile Veri Görselleştirme
 - 📝 Prompt Mühendisliği
 - 🤖 Yapay Zeka Uzmanı
+- 📝 İçerik Üreticisi
 - 🎙️ Podcaster
 
 ## Projelerim
