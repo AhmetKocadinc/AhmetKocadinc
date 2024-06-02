@@ -8,7 +8,7 @@ Bu bilgi birikimim ile bir YouTube kanalım var, üzerinden videolarda projeleri
 ## Yetkinliklerim
 - 📊 Veri Analizi
 - 🧠 Makine Öğrenimi
-- 💻 Python, R
+- 💻 Python
 - 📊 Plotly ile Veri Görselleştirme
 - 🗄️ SQL ile Veri Sorgulama
 - 📊 SQL ile Veri Analizi
