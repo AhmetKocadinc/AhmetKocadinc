@@ -1,7 +1,7 @@
 # Hello, I am Ahmet Kocadinç! 👋
 
 ## About Me
-Hello, I am Ahmet Kocadinç, a Data Scientist / Data Analyst passionate about technology and artificial intelligence. I have completed a 12-month data analysis certification programme and I am currently working on various projects. You can access these projects on GitHub and Kaggle. I plan to distribute these projects soon by making a web application with Streamlit and setting up my own site.
+Hello, I am Ahmet Kocadinç, a Data Scientist / Data Analyst passionate about technology and artificial intelligence. I have completed a 12-month data analysis certification programme and I am currently working on various projects. You can access these projects on GitHub and Kaggle.
 
 With this knowledge, I have a YouTube channel, where I re-code projects in videos and present them as a fun education. I also present the podcast programme "Data World with Ahmet" on Spotify. This series will be published one episode every 3 days and will last 30 episodes in total.
 
@@ -54,11 +54,11 @@ https://github.com/AhmetKocadinc/capstone-project
 
 
 ### 3. Podcast Series: Ahmet İle Veri Dünyası
-- **Bölüm 1:** Veri Bilimine Giriş
-- **Bölüm 2:** Veri Bilimi İçin Gerekli Temel Beceriler
-- **Bölüm 3:** Veri Toplama ve Temizleme Teknikleri **Gelecek Bölümler
-- **Bölüm 4:** Veri Keşfi ve Görselleştirme Yöntemleri **Gelecek Bölümler
-- **Bölüm 5:** Makine Öğrenimi ve Temel Algoritmalar **Gelecek Bölümler
+- **Chapter 1:** Veri Bilimine Giriş
+- **Chapter 2:** Veri Bilimcinin Rolü ve Sorumlulukları
+- **Chapter 3:** Veri Toplama ve Yönetimi
+- **Chapter 4:** Veri Temizleme ve Hazırlama Teknikleri **Gelecek Bölümler
+- **Chapter 5:** Veri Keşfi ve Görselleştirme Yöntemleri **Gelecek Bölümler
 
 ## Contact Me
 - 📧 Email: ahmetkocadinc@gmail.com
