@@ -6,7 +6,7 @@ Hello, I am Ahmet Kocadinç, a Data Scientist / Data Analyst passionate about te
 With this knowledge, I have a YouTube channel, where I re-code projects in videos and present them as a fun education. I also present the podcast programme "Data World with Ahmet" on Spotify. This series will be published one episode every 3 days and will last 30 episodes in total.
 
 ## My competences
-- 📊 Data Analysis
+- 📊 Data Analyst
 - 🧠 Machine Learning
 - 💻 Python
 - 📊 Data Visuallation with Plotly
@@ -15,7 +15,7 @@ With this knowledge, I have a YouTube channel, where I re-code projects in video
 - 🔍 Data Query with DAX
 - 📊 Data Visuallation with Power BI
 - 📝 Prompt Engineering
-- 🤖 Artificial Intelligence Expert
+- 🤖 Artificial Intelligence
 - 📝 Content Producer
 - 🎙️ Podcaster
 
