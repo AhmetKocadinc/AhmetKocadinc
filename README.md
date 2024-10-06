@@ -18,6 +18,7 @@ With this knowledge, I have a YouTube channel, where I re-code projects in video
 - 🤖 Artificial Intelligence
 - 📝 Content Producer
 - 🎙️ Podcaster
+- 💻 Youtuber
 
 ## Project
 ### 1. Project with Python
