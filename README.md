@@ -1,9 +1,17 @@
 # Hello, I am Ahmet Kocadinç! 👋
 
 ## About Me
-Hello, I am Ahmet Kocadinç, a Data Scientist / Data Analyst passionate about technology and artificial intelligence. I have completed a 12-month data analysis certification programme and I am currently working on various projects. You can access these projects on GitHub and Kaggle.
+Hi, I'm Ahmet Kocadinç!
 
-With this knowledge, I have a YouTube channel, where I re-code projects in videos and present them as a fun education. I also present the podcast programme "Data World with Ahmet" on Spotify. This series will be published one episode every 3 days and will last 30 episodes in total.
+As a passionate Data Scientist and AI enthusiast, I specialize in leveraging data to uncover valuable insights and develop intelligent solutions that make an impact. With a diverse skill set that spans across data analysis, machine learning, and full-stack development, my projects are designed to not only solve real-world problems but also contribute to the tech community through open-source code and educational content.
+
+On my GitHub, you’ll find a wide variety of projects ranging from AI-powered chatbots, stock tracking applications using yfinance, to optical character recognition (OCR) systems and competitive price analysis tools. Each project is meticulously designed with scalability and practicality in mind, using technologies like Python, Flask, OpenAI API, and Streamlit to create powerful applications that are both user-friendly and effective.
+
+I have a deep interest in web development as well, building interactive dashboards and data visualizations with Dash and Plotly. Whether it's helping businesses track key metrics through clean and modern dashboards or developing AI-driven models to automate tasks, my work is always focused on innovation and practical utility.
+
+I am continuously looking for new ways to apply cutting-edge technologies like natural language processing (NLP) and computer vision to solve complex challenges. I'm also keen on sharing my journey with others through detailed project explanations, tutorials, and collaborative open-source contributions.
+
+If you're looking to collaborate on projects or explore the world of AI and data science, feel free to connect with me here or on my other platforms. Together, we can build innovative solutions and push the boundaries of technology!
 
 ## My competences
 - 📊 Data Analyst
